@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roster</string>
+    <string name="add_member">Add Member</string>
+    <string name="clear_roster">Clear Roster</string>
+</resources>
